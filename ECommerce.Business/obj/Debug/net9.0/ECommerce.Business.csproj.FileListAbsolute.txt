@@ -1,0 +1,15 @@
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.csproj.AssemblyReference.cache
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.AssemblyInfoInputs.cache
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.AssemblyInfo.cs
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.csproj.CoreCompileInputs.cache
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\bin\Debug\net9.0\ECommerce.Business.deps.json
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\bin\Debug\net9.0\ECommerce.Business.dll
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\bin\Debug\net9.0\ECommerce.Business.pdb
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\bin\Debug\net9.0\ECommerce.DataAccess.dll
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\bin\Debug\net9.0\ECommerce.DataAccess.pdb
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerc.BC0F01EB.Up2Date
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.dll
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\refint\ECommerce.Business.dll
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ECommerce.Business.pdb
+C:\Users\90535\source\repos\EticaretUdemy\ECommerce.Business\obj\Debug\net9.0\ref\ECommerce.Business.dll
